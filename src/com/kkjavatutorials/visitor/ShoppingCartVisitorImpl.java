@@ -2,7 +2,10 @@ package com.kkjavatutorials.visitor;
 
 import com.kkjavatutorials.item.impl.Book;
 import com.kkjavatutorials.item.impl.Fruit;
-
+/**
+ * @author KK JavaTutorials
+ *Overloaded visit method for different Items
+ */
 public class ShoppingCartVisitorImpl implements ShoppingCartVisitor {
 
 	@Override

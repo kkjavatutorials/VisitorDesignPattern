@@ -7,8 +7,8 @@ import com.kkjavatutorials.visitor.ShoppingCartVisitor;
 import com.kkjavatutorials.visitor.ShoppingCartVisitorImpl;
 /**
  * 
- * @author Kishan Kumar
- *
+ * @author KK JavaTurrials
+ *Visitor client program
  */
 public class VisitorTest {
 
