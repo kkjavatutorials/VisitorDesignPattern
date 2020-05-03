@@ -5,7 +5,11 @@ import com.kkjavatutorials.item.impl.Book;
 import com.kkjavatutorials.item.impl.Fruit;
 import com.kkjavatutorials.visitor.ShoppingCartVisitor;
 import com.kkjavatutorials.visitor.ShoppingCartVisitorImpl;
-
+/**
+ * 
+ * @author Kishan Kumar
+ *
+ */
 public class VisitorTest {
 
 	public static void main(String[] args) {
